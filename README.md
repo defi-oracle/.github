@@ -1,1 +1,3 @@
 # .github
+
+The Defi Oracle Meta Mainnet is not a "crypto" network.  The network is run by an INGO under contract of two IGO's and the ETH is real as on any EVM chain, as this is forked Ether, however, this network has NO CRYPTO CURRENCY and is not a public network. The public may send and receive, interact through applications of financial entities who are licensed and approved to have a member on the network. As both all units on this network are Currency, and the ETH is a digital currency, it is a violation of law to solicit and / or ask assistance in removing the digital currenc(y/ies). from governmental machines.  We will prosecute to the fullest extent of the law in International Courts for violations of Private Law under the Hague Conventions and UN Resolutions.
